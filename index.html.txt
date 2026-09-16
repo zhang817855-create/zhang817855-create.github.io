@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>中国旅游咨询 | 马来游客专属</title>
+<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1106398177310427');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1106398177310427&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+</head>
+<body style="margin:0;padding:0;font-family:system-ui,sans-serif;">
+<div style="padding:20px;max-width:700px;margin:auto;">
+<h1>中国旅游咨询</h1>
+<p>欢迎马来西亚朋友咨询中国旅游行程</p>
+<p>可选目的地：</p>
+<ul>
+<li>云南</li>
+<li>九江</li>
+<li>吉首</li>
+<li>广州</li>
+<li>厦门</li>
+<li>香港</li>
+<li>澳门</li>
+<li>丽江</li>
+<li>昆明</li>
+</ul>
+<p>热门路线：</p>
+<ul>
+<li>广深→澳门</li>
+<li>广州→厦门</li>
+<li>桃园→香港→丽江/昆明</li>
+</ul>
+<br>
+<a href="https://wa.me/8619574428250" target="_blank" style="display:inline-block;padding:16px 30px;background:#25D366;color:#fff;border-radius:8px;text-decoration:none;font-size:18px">WhatsApp咨询</a>
+<br><br>
+<p>也可以选择目的地快速咨询：</p>
+<a href="https://wa.me/8619574428250?text=咨询云南旅游" target="_blank" style="display:inline-block;margin:5px;padding:10px 16px;background:#25D366;color:#fff;border-radius:6px;text-decoration:none">云南</a>
+<a href="https://wa.me/8619574428250?text=咨询九江旅游" target="_blank" style="display:inline-block;margin:5px;padding:10px 16px;background:#25D366;color:#fff;border-radius:6px;text-decoration:none">九江</a>
+<a href="https://wa.me/8619574428250?text=咨询吉首旅游" target="_blank" style="display:inline-block;margin:5px;padding:10px 16px;background:#25D366;color:#fff;border-radius:6px;text-decoration:none">吉首</a>
+<a href="https://wa.me/8619574428250?text=咨询广州旅游" target="_blank" style="display:inline-block;margin:5px;padding:10px 16px;background:#25D366;color:#fff;border-radius:6px;text-decoration:none">广州</a>
+<a href="https://wa.me/8619574428250?text=咨询厦门旅游" target="_blank" style="display:inline-block;margin:5px;padding:10px 16px;background:#25D366;color:#fff;border-radius:6px;text-decoration:none">厦门</a>
+<a href="https://wa.me/8619574428250?text=咨询香港旅游" target="_blank" style="display:inline-block;margin:5px;padding:10px 16px;background:#25D366;color:#fff;border-radius:6px;text-decoration:none">香港</a>
+<a href="https://wa.me/8619574428250?text=咨询澳门旅游" target="_blank" style="display:inline-block;margin:5px;padding:10px 16px;background:#25D366;color:#fff;border-radius:6px;text-decoration:none">澳门</a>
+<a href="https://wa.me/8619574428250?text=咨询丽江旅游" target="_blank" style="display:inline-block;margin:5px;padding:10px 16px;background:#25D366;color:#fff;border-radius:6px;text-decoration:none">丽江</a>
+<a href="https://wa.me/8619574428250?text=咨询昆明旅游" target="_blank" style="display:inline-block;margin:5px;padding:10px 16px;background:#25D366;color:#fff;border-radius:6px;text-decoration:none">昆明</a>
+</div>
+</body>
+</html>
